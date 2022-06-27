@@ -2,23 +2,45 @@
 {
 	"kick_cl_allowdownload"
 	{
-		"en"			"Type In Console [cl_allowdownload 1] To Enter Server"
-		"pt"			"Digite no console [cl_allowdownload 1] Para entrar no servidor"
-		"ru"			"Введите консоль [cl_allowdownload 1] Для входа на сервер"
-		"chi"			"输入控制台 [cl_allowdownload 1] 进入服务器"
+		"en"			"[CL_Forcer] Type In Console [cl_allowdownload 1] To Enter The Server"
+		"pt"			"[CL_Forcer] Digite no console [cl_allowdownload 1] Para entrar no servidor"
+		"ru"			"[CL_Forcer] Введите консоль [cl_allowdownload 1] Для входа на сервер"
+		"chi"			"[CL_Forcer] 输入控制台 [cl_allowdownload 1] 进入服务器"
 	}
 	"kick_cl_allowupload"
 	{
-		"en"			"Type In Console [cl_allowupload 1] To Enter Server"
-		"pt"			"Digite no console [cl_allowupload 1] Para entrar no servidor"
-		"ru"			"Введите консоль [cl_allowupload 1] Для входа на сервер"
-		"chi"			"输入控制台 [cl_allowupload 1] 进入服务器"
+		"en"			"[CL_Forcer] Type In Console [cl_allowupload 1] To Enter The Server"
+		"pt"			"[CL_Forcer] Digite no console [cl_allowupload 1] Para entrar no servidor"
+		"ru"			"[CL_Forcer] Введите консоль [cl_allowupload 1] Для входа на сервер"
+		"chi"			"[CL_Forcer] 输入控制台 [cl_allowupload 1] 进入服务器"
 	}
 	"kick_cl_downloadfilter"
 	{
-		"en"			"Type In Console [cl_downloadfilter all] To Enter Server"
-		"pt"			"Digite no console [cl_downloadfilter all] Para entrar no servidor"
-		"ru"			"Введите консоль [cl_downloadfilter all] Для входа на сервер"
-		"chi"			"输入控制台 [cl_downloadfilter all] 进入服务器"
+		"en"			"[CL_Forcer] Type In Console [cl_downloadfilter all] To Enter The Server"
+		"pt"			"[CL_Forcer] Digite no console [cl_downloadfilter all] Para entrar no servidor"
+		"ru"			"[CL_Forcer] Введите консоль [cl_downloadfilter all] Для входа на сервер"
+		"chi"			"[CL_Forcer] 输入控制台 [cl_downloadfilter all] 进入服务器"
+	}
+
+	"chat_cl_allowdownload"
+	{
+		"en"			"{darkred} [ {green}CL_Forcer {darkred}] {grey}Type In Console [{purple}cl_allowdownload 1{grey}] To Play"
+		"pt"			"{darkred} [ {green}CL_Forcer {darkred}] {grey}Digite no console [{purple}cl_allowdownload 1{grey}] Jogar"
+		"ru"			"{darkred} [ {green}CL_Forcer {darkred}] {grey}Введите консоль [{purple}cl_allowdownload 1{grey}] играть"
+		"chi"			"{darkred} [ {green}CL_Forcer {darkred}] {grey}输入控制台 [{purple}cl_allowdownload 1{grey}] 玩"
+	}
+	"chat_cl_allowupload"
+	{
+		"en"			"{darkred} [ {green}CL_Forcer {darkred}] {grey}Type In Console [{purple}cl_allowupload 1{grey}] To Play"
+		"pt"			"{darkred} [ {green}CL_Forcer {darkred}] {grey}Digite no console [{purple}cl_allowupload 1{grey}] Jogar"
+		"ru"			"{darkred} [ {green}CL_Forcer {darkred}] {grey}Введите консоль [{purple}cl_allowupload 1{grey}] играть"
+		"chi"			"{darkred} [ {green}CL_Forcer {darkred}] {grey}输入控制台 [{purple}cl_allowupload 1{grey}] 玩"
+	}
+	"chat_cl_downloadfilter"
+	{
+		"en"			"{darkred} [ {green}CL_Forcer {darkred}] {grey}Type In Console [{purple}cl_downloadfilter all{grey}] To Play"
+		"pt"			"{darkred} [ {green}CL_Forcer {darkred}] {grey}Digite no console [{purple}cl_downloadfilter all{grey}] Jogar"
+		"ru"			"{darkred} [ {green}CL_Forcer {darkred}] {grey}Введите консоль [{purple}cl_downloadfilter all{grey}] играть"
+		"chi"			"{darkred} [ {green}CL_Forcer {darkred}] {grey}输入控制台 [{purple}cl_downloadfilter all{grey}] 玩"
 	}
 }
