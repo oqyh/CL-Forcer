@@ -1,4 +1,4 @@
-# [ANY] CL-Forcer (1.0.1)
+# [ANY] CL-Forcer (1.0.2)
 https://forums.alliedmods.net/showthread.php?t=338347
 
 ### CL Forcer ( Force Client To Download-Table )
@@ -17,8 +17,8 @@ https://forums.alliedmods.net/showthread.php?t=338347
 ```
 // Choose What To Do With Them || 1= Kick Them From The Server || 2= Send Them To Spec
 // -
-// Default: "2"
-sm_force_method "2"
+// Default: "1"
+sm_force_method "1"
 
 // Only People With cl_allowdownload 1 Enter The Server || 1= Yes || 0= No
 // -
@@ -41,12 +41,22 @@ sm_cl_allowupload "0"
 // Maximum: "1.000000"
 sm_cl_downloadfilter "1"
 
+// Let Linux bypass all CL_Forcer || 1= Yes || 0= No
+// -
+// Default: "0"
+// Minimum: "0.000000"
+// Maximum: "1.000000"
+sm_cl_ignorelinux "0"
 ```
 
 
 ## .:[ Change Log ]:.
 ```
-(1.0.0)
+(1.0.2)
+-Fix Bug
+-Added Linux bypass sm_cl_ignorelinux ( prevent crashes L4D2 Linux Clients )
+
+(1.0.1)
 -Fix Bug
 -Added Force Spec
 
