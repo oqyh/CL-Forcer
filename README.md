@@ -1,4 +1,4 @@
-# [ANY] CL-Forcer (1.0.3)
+# [ANY] CL-Forcer (1.0.4)
 https://forums.alliedmods.net/showthread.php?t=338347
 
 ### CL Forcer ( Force Client To Download-Table With Reconnect )
@@ -64,7 +64,7 @@ sm_force_ignorelinux "0"
 
 ## .:[ Change Log ]:.
 ```
-(1.0.3)
+(1.0.4)
 -Fix Bug
 -New Syntax
 -Added sm_force_enable Enable/Disable Plugin ConVar
